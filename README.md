@@ -11,9 +11,6 @@
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bakr-1&layout=compact&theme=transparent" alt="Top Langs" /></p>
 
-## 42 AbuDhabi Stat
-<p align="center"><img src="https://badge42.vercel.app/api/v2/clggffuam000608lb5h7uxe8t/stats?cursusId=21&coalitionId=185" alt="aalseri's 42 stats" /></p>
-
 ## Languages and Tools:
 
 <p align="center">
