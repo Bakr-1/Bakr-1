@@ -41,8 +41,10 @@
 
 
 <!-- <div style="text-align:center"> -->
-<div align="center">
-  
-![visitors](https://visitor-badge.glitch.me/badge?page_id=bakr-1.visitor-badge)
 
-</div>
+<p align="center">
+  <a href="#">
+      <img src="https://api.visitorbadge.io/api/VisitorHit?user=bakr-1&repo=github-visitors-badge&countColor=%237B1E7A" />
+   </a>
+</p>
+
