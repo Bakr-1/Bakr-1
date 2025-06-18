@@ -43,6 +43,6 @@
 <!-- <div style="text-align:center"> -->
 <div align="center">
   
-![visitors](https://visitor-badge.glitch.me/badge?page_id=bakr-1&left_color=gray&right_color=blue)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=bakr-1.visitor-badge)
 
 </div>
